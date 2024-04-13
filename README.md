@@ -7,13 +7,13 @@ Currently transitioning into Cybersecurity and committed to leveraging my analyt
 
 ## Objective
 
-Showcase my knowledge and growing passion for cybersecurity, aiming to join an organization 
+Showcase my knowledge for essential cybersecurity practices, aiming to become a Full- Time SOC Analyst
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 | Practice                                      | Breakdown Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Wireshark Lab</a>|
+| Malware Network Detection(PCAP)               | <a href="https://google.com">Wireshark Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
