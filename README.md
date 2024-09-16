@@ -13,7 +13,7 @@ Showcase my knowledge for essential cybersecurity practices, aiming to become a 
 
 | Practice                                      | Breakdown Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Network Detection(PCAP)               | <a href="https://google.com">Wireshark Lab</a>|
+| Malware Network Detection(PCAP)               | <a href="https://github.com/jakastory/Malicious-Activity-Analysis-">Wireshark Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
