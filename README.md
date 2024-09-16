@@ -1,13 +1,12 @@
 # Greetings, I'm John Aka! 
 <a href="https://www.linkedin.com/in/john-aka-b7b62a84/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-(Introdution)
 
-Currently transitioning into Cybersecurity and committed to leveraging my analytical skills to to the development and implementation of cybersecurity solutions 
+This page serves as a comprehensive documentation of my ongoing development in computer networks and systems expertise, 
 
 ## Objective
 
-Showcase my knowledge for essential cybersecurity practices, aiming to become a Full- Time SOC Analyst
+S
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
