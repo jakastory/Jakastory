@@ -6,7 +6,7 @@ This page serves as a comprehensive documentation of my ongoing development in c
 
 ## Objective
 
-S
+Grow and develop my skills
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
